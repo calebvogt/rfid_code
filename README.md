@@ -5,5 +5,5 @@ Maintained by Caleb C. Vogt. If you would like to become a contributor to this r
 
 
 ## To Do list
-- create actograms of individual and sex-based activity patterns. Actograms should come either from movements between zones (i.e. floor based antennas) or from wall/tube mounted RFID antennas, the idea being that actograms should capture movement between or through spaces, not capturing rest at a particular space. 
+- create actograms of individual and sex-based activity patterns. Actograms should come either from movements between zones (i.e. floor based antennas) or from wall/tube mounted RFID antennas, the idea being that actograms should capture movement between or through spaces, not capturing rest at a particular space. 24 hour x axis, with days decreasing top to bottom on the y axis.
 
